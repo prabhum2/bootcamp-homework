@@ -16,11 +16,20 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * How many trips have been recorded total during the chosen period?
 
+337580 trips from 052017 to 052018 trip data files . Please refer : 
+
 * By what percentage has total ridership grown? 
+~ 33% growth
 
 * How has the proportion of short-term customers and annual subscribers changed?
 
+
+Annual Subscriptions increased drastically from 0 in 052017 to 90,799 at the same time next year 052018
+and non - annual subscribers decreased from 234k in 052017 to 12k same time in 2018 probably because lot of these users converted to Annual subscribers
+
+
 * What are the peak hours in which bikes are used during summer months? 
+
 
 * What are the peak hours in which bikes are used during winter months?
 
